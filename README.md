@@ -7,3 +7,4 @@ test
 
 test test
 smoke test
+test smoke test
