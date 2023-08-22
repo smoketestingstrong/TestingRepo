@@ -8,5 +8,6 @@ mv samples-main samples
 
 pack build sample-app --path samples/apps/java-maven --builder cnbs/sample-builder:bionic
 
+#test
 
 #docker run -it europe-docker.pkg.dev/strong-network-images/workspaces/cloud_editor_generic:2.1.0
