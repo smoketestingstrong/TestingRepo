@@ -1,6 +1,7 @@
 sudo add-apt-repository ppa:cncf-buildpacks/pack-cli -y
 sudo apt-get update -y
 sudo apt-get install pack-cli -y
+#sudo apt update && sudo apt upgrade -y
 
 wget https://github.com/buildpacks/samples/archive/refs/heads/main.zip
 unzip main.zip
