@@ -12,6 +12,7 @@ test smoke test
 test 01/11/23
 test
 test 
+test ssh
 test 13
 test
 test
@@ -20,6 +21,7 @@ test
 test
 test
 test
+test shh
 test prody
 test
 test
