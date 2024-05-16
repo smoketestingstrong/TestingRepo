@@ -6,6 +6,7 @@ vsc test
 test
 test
 test test
+test
 smoke test
 test
 test
