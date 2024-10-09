@@ -4,12 +4,12 @@ testing repo
 test
 vsc test
 test
-test
+testкстом на страници када гледа њен распоред. Поента коришћења Lorem Ip
 test test
 test
 smoke test
 test
-test
+testori
 test
 test
 test
